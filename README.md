@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gakindi
+- 👋 Hi, I’m @Gakindi Christian
 - 👀 I a  intrigued by the world of data science, data analytics, business analytics, and deep learning.My greatest interests include exploring patterns, extracting insights, and solving complex problems using data-driven approaches.
 - 🌱 I recently completed my master's in Electrical and Computer Engineering at Carnegie Mellon University, where I had the opportunity to delve into cutting-edge technologies and gain a solid foundation in various aspects of data science.
 - 💞️ I am actively seeking collaborations on projects related to data science, data analytics, and deep learning. Whether it is exploring trends in data, building predictive models, or diving into the complexities of neural networks, I'm eager to contribute and learn together.

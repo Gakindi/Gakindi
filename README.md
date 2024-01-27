@@ -4,7 +4,7 @@
 - 💞️ I am actively seeking collaborations on projects related to data science, data analytics, and deep learning. Whether it is exploring trends in data, building predictive models, or diving into the complexities of neural networks, I'm eager to contribute and learn together.
 - 📫 You can reach me through this platform, and I'm open to connecting with like-minded individuals who share a passion for data and its transformative power. Please contact me if you'd like to discuss projects, share insights, or simply have a data-driven conversation!
 - 😄 Pronouns: He
-- 
+  
 
 <!---
 Gakindi/Gakindi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
